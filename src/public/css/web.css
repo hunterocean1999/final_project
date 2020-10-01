@@ -1,0 +1,252 @@
+
+
+.header_navbar {
+ margin-top: -26px;
+ height: 62px;
+ margin-bottom: 20px;
+}
+
+
+  /* // ----------------------- Login --------------------------// */
+
+.welcome{
+    background: #e9ab9c;
+    height: 100%;
+    overflow: hidden;
+    margin-top: -30px;
+    height: 100vh;
+}
+
+.card-welcome{
+    margin-top: 240px;
+    width: 80%;
+    margin-left: 50px;
+    background-color: #fec09b ;
+}
+
+
+
+.card-welcome_header{
+    text-align: center;
+}
+
+.card-welcome_text{
+    text-align: center;
+}
+
+.section-login{
+    min-height: 700px;
+     background: #e26c27
+ }
+ 
+ .form-background{
+     background: #e9ab9c;
+     margin-top: 120px;
+     margin-bottom: 10px;
+     padding-top: 10px;
+     padding-bottom: 50px;
+     margin-left: 118px;
+     border-radius: 5px;
+ }
+ 
+ .form-background> h3{
+     text-align: center;
+     margin-top: 30px; 
+ }
+ .form-item{
+     margin-bottom: 30px; 
+ }
+ .resetpassowrd{
+     text-align: right;
+ }
+ 
+ .btn-login{
+     padding: 12px 30px;
+     font-size: 18px;
+     text-transform: uppercase;
+     letter-spacing: 2px;
+     background: #f0bcd4;
+     color: white;
+     border: none;
+     outline: none;
+     display: table;
+     cursor: pointer;
+     margin: 15px auto 31px;
+     border-radius: 3px;
+     cursor: pointer;
+ }
+ 
+ .btn-login:hover{
+     transform: translate(2px,2px);
+ }
+ 
+ .user-register{
+     text-align: center;
+ }
+
+
+ /* ----------------------Register----------------- */
+ .section-register{
+  min-height: 1000px;
+   background: #fec09b
+}
+
+.form-background{
+   background: #e9ab9c;
+   margin-top: 100px;
+   margin-bottom: 10px;
+   padding-top: 10px;
+   padding-bottom: 50px;
+}
+
+.form-background> h3{
+   text-align: center;
+   margin-top: 30px; 
+}
+.form-item{
+   margin-bottom: 15px; 
+}
+
+
+.btn-login{
+   padding: 12px 30px;
+   font-size: 18px;
+   text-transform: uppercase;
+   letter-spacing: 2px;
+   background: #f0bcd4;
+   color: white;
+   border: none;
+   outline: none;
+   display: table;
+   cursor: pointer;
+   margin: 15px auto 31px;  
+}
+
+
+
+/* --------------------------------- */
+/* ---------app__container--------- */
+
+.cart-icon{
+    position: relative;
+}
+
+.home-filter{
+    border-radius: 10px;
+}
+
+.cart_number{
+    position: absolute;
+    background-color: white;
+    padding: 4px 8px;
+    top: -20px;
+    border-radius: 50%;
+    left: 620px;
+}
+
+h5{
+  color: #555;
+}
+.card-body{
+    text-decoration: none;
+}
+.card{
+  text-align: left; 
+}
+.card-img{
+    height: 200px;
+    width:  100%;
+}
+.row_list{
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+.fa-shopping-cart{
+    margin-left: 600px;
+    font-size: 25px;
+    color: brown;
+    cursor: pointer;
+}
+
+/* ----------------Create-product---------------- */
+.card-title-1{
+    color: #111111;
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+/* -----------------Cart------------------- */
+.cart-table{
+    border: solid 1px #999;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+}
+.subTotal{
+    display: flex;
+    justify-content: space-between;
+    color: green;
+    background-color:#9999;
+}
+
+.subTotal h4{
+    font-size: 20px;
+    padding-left: 12%;
+}
+
+.icons{
+    color: green;
+    cursor: pointer;
+    margin: 0 5px;
+}
+
+.remove-icon{
+    color: red;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.subtotal-price{
+    padding-right: 13%;
+    font-size: 20px;
+}
+
+.bnt-cart{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+    text-decoration-line: none;
+}
+
+.bnt-cart-1{
+    
+    margin-right: 5px;
+    padding: 6px;
+    color: white;
+    border-radius: 5px;
+    background-color: rgb(0, 128, 49);
+}
+
+.col-4{
+    background-color: white;
+    border-radius: 10px;
+}
+
+.body-1{
+    background-color: #fec09b;
+}
+
+.oder_summary-total{
+    margin-top: 50px;
+    border-top: solid 1px #333;
+    display: flex;
+    justify-content: space-between;
+}
+.col-name-item{
+    font-size: 20px;
+    color: #999;
+}
+.col_value-item{
+    color: #333;
+}
